@@ -1,0 +1,12 @@
+img {
+    display: block;
+    margin: auto;
+    height: 6rem;
+    width: 6rem;
+  }
+
+h4 {
+    text-align: center;
+    color: azure;
+    font-family: monospace;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "reduxstore",
+  "version": "1.0.0",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aj1989/ReduxStore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aj1989/ReduxStore/issues"
+  },
+  "homepage": "https://github.com/Aj1989/ReduxStore#readme",
+  "description": ""
+}
